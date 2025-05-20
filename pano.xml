@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" start="node1" appversion="7.1.9" hassounds="1">
+  <panorama hideabout="1" id="node1">
+    <input width="2235" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2235" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2235" preload="0" predecode="0" height="2235"/>
+      <level width="1117" preload="0" predecode="0" height="1117"/>
+      <level width="558" preload="0" predecode="0" height="558"/>
+      <level width="279" preload="1" predecode="1" height="279"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="212.884">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="The main gate of Philippine Normal University - Manila." info="" datetime="5/6/2025 11:59 AM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node1" latitude="" title="Main Gate Entrance 1" altitude="-3048.00" heading="212.884">
+      <custompropertyvalue value="&lt;div class=&quot;ggmarkdown&quot;>&lt;h1>Test&lt;/h1>&#xa;&lt;div>" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.594635" y="-1.33896" x_floorplan_percent="36.6638" mapid="FloorPlan02" y_floorplan_percent="82.5572"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-14.5" url="{node2}" title="Torch" skinid="ht_node" description="" id="Point01" pan="105.315" target="$fwd"/>
+      <hotspot tilt="-5.62" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point02" pan="139.536" target="$fwd"/>
+      <hotspot tilt="5.4" url="" title="Torch" skinid="ht_info" description="This is the Torch symbol inside Philippine Normal University - Manila. Rumors say that one must not take a picture infront of this structure because they won't be able to graduate on time.&#xa;&#xa;Ito ang simbolo ng Sulo sa loob ng Philippine Normal University - Manila. Ayon sa mga sabi-sabi, hindi raw makakapagtapos sa tamang panahon ang sinumang magpapakuha ng litrato sa harap ng estrukturang ito." id="info_area1" pan="-285.85" target="_blank"/>
+      <hotspot tilt="4.92" url="" title="Test 2" skinid="ht_info" description="Pano to makikita idolllllllll hwahhahahahhahahahha" id="Point03" pan="-219" target="_blank"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" mode="0" level="1.000" pansize="10.000" startmutedmobile="0" loop="1" ambientlevel="0.000" id="_background" tiltsize="10.000" field="90.000" pan="-1.000">
+        <source url="media/Relaxing music Relieves stress Anxiety and Depression  Heals the Mind body and Soul - Deep Sleep.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input width="2245" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2245" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2245" preload="0" predecode="0" height="2245"/>
+      <level width="1122" preload="0" predecode="0" height="1122"/>
+      <level width="561" preload="0" predecode="0" height="561"/>
+      <level width="280" preload="1" predecode="1" height="280"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="157.231">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 12:03 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node2" latitude="" title="Torch" altitude="-3048.00" heading="157.231">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.64682" y="-1.3472" x_floorplan_percent="39.8815" mapid="FloorPlan02" y_floorplan_percent="83.0652"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="2.1" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point01" pan="-202.9" target="$fwd"/>
+      <hotspot tilt="-11.5" url="{node1}" title="Main Gate Entrance 1" skinid="ht_node" description="" id="Point02" pan="-89.1551" target="$fwd"/>
+      <hotspot tilt="-11.94" url="{node3}" title="Main Gate Entrance 2" skinid="ht_node" description="" id="Point03" pan="55.5124" target="$fwd"/>
+      <hotspot tilt="10.53" url="" title="Torch" skinid="ht_info" description="This is the Torch symbol inside Philippine Normal University - Manila. Rumors say that one must not take a picture infront of this structure because they won't be able to graduate on time.&#xa;&#xa;Ito ang simbolo ng Sulo sa loob ng Philippine Normal University - Manila. Ayon sa mga sabi-sabi, hindi raw makakapagtapos sa tamang panahon ang sinumang magpapakuha ng litrato sa harap ng estrukturang ito." id="Point04" pan="-21.38" target="_blank"/>
+      <hotspot tilt="19.86" url="" title="Geronima T. Pecson" skinid="ht_info" description="Geronima Josefa Tomelden Pecson was an educator, suffragette, and social worker who became the first woman senator of the Philippines in 1947 and the first woman member of the Executive Board of the United Nations Educational, Scientific and Cultural Organization in 1950.&#xa;&#xa;Si Geronima Josefa Tomelden Pecson ay isang edukadora, suffragette, at manggagawang panlipunan na naging kauna-unahang babaeng senador ng Pilipinas noong 1947, at unang babaeng miyembro ng Executive Board ng United Nations Educational, Scientific and Cultural Organization (UNESCO) noong 1950." id="Point05" pan="-202.65" target="_blank"/>
+      <hotspot tilt="20.17" url="https://en.wikipedia.org/wiki/Geronima_Pecson" title="Test" skinid="ht_url" description="" id="Point06" pan="-196.63" target="_blank"/>
+      <hotspot tilt="20.53" url="images/JAGR0190.jpg" title="" skinid="ht_image" description="" id="Point07" pan="-208.45" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input width="2249" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2249" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2249" preload="0" predecode="0" height="2249"/>
+      <level width="1124" preload="0" predecode="0" height="1124"/>
+      <level width="562" preload="0" predecode="0" height="562"/>
+      <level width="281" preload="1" predecode="1" height="281"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="258.619">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 12:06 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node3" latitude="" title="Main Gate Entrance 2" altitude="-3048.00" heading="258.619">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="0.699005" y="-1.34171" x_floorplan_percent="43.0991" mapid="FloorPlan02" y_floorplan_percent="82.7265"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-13.35" url="{node2}" title="Torch" skinid="ht_node" description="" id="Point01" pan="-40.3576" target="$fwd"/>
+      <hotspot tilt="0.67" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point02" pan="-79.8769" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node4">
+    <input width="2228" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2228" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2228" preload="0" predecode="0" height="2228"/>
+      <level width="1114" preload="0" predecode="0" height="1114"/>
+      <level width="557" preload="0" predecode="0" height="557"/>
+      <level width="278" preload="1" predecode="1" height="278"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 12:12 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node4" latitude="" title="Towards Ayala Wing" altitude="-3048.00" heading="0">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.707245" y="-1.19064" x_floorplan_percent="43.6071" mapid="FloorPlan02" y_floorplan_percent="73.4124"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-11.35" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point01" pan="153.286" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input width="2240" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2240" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2240" preload="0" predecode="0" height="2240"/>
+      <level width="1120" preload="0" predecode="0" height="1120"/>
+      <level width="560" preload="0" predecode="0" height="560"/>
+      <level width="280" preload="1" predecode="1" height="280"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="8.32137">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 12:09 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node5" latitude="" title="Main Building Entrance" altitude="-3048.00" heading="8.32137">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.657806" y="-1.27304" x_floorplan_percent="40.5588" mapid="FloorPlan02" y_floorplan_percent="78.4928"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-3.6" url="{node2}" title="Torch" skinid="ht_node" description="" id="Point01" pan="-125.65" target="$fwd"/>
+      <hotspot tilt="-1.74" url="{node1}" title="Main Gate Entrance 1" skinid="ht_node" description="" id="Point02" pan="-134.224" target="$fwd"/>
+      <hotspot tilt="-1.59" url="{node3}" title="Main Gate Entrance 2" skinid="ht_node" description="" id="Point03" pan="243.713" target="$fwd"/>
+      <hotspot tilt="-19.54" url="{node6}" title="Grand Staircase" skinid="ht_node" description="" id="Point04" pan="79.1958" target="$fwd"/>
+      <hotspot tilt="-8.56" url="{node7}" title="Towards Taft Wing" skinid="ht_node" description="" id="Point05" pan="91.8645" target="$fwd"/>
+      <hotspot tilt="-9.25" url="{node4}" title="Towards Ayala Wing" skinid="ht_node" description="" id="Point06" pan="-33.5224" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input width="2235" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2235" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2235" preload="0" predecode="0" height="2235"/>
+      <level width="1117" preload="0" predecode="0" height="1117"/>
+      <level width="558" preload="0" predecode="0" height="558"/>
+      <level width="279" preload="1" predecode="1" height="279"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-170.362">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 1:36 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node6" latitude="" title="Grand Staircase" altitude="-3048.00" heading="-170.362">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.644073" y="-1.2442" x_floorplan_percent="39.7121" mapid="FloorPlan02" y_floorplan_percent="76.7146"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-19.63" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point01" pan="-301.833" target="$fwd"/>
+      <hotspot tilt="-16.1" url="{node7}" title="Towards Taft Wing" skinid="ht_node" description="" id="Point02" pan="-94.0948" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input width="2237" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2237" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2237" preload="0" predecode="0" height="2237"/>
+      <level width="1118" preload="0" predecode="0" height="1118"/>
+      <level width="559" preload="0" predecode="0" height="559"/>
+      <level width="279" preload="1" predecode="1" height="279"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="117.924">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/6/2025 1:38 PM" tags="drive-download-20250510T153424Z-001" author="" customnodeid="" nodeid="node7" latitude="" title="Towards Taft Wing" altitude="-3048.00" heading="117.924">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="nan" y="nan" x_floorplan_percent="inf" mapid="FloorPlan01" y_floorplan_percent="inf"/>
+      <mapcoords x="0.630341" y="-1.2291" x_floorplan_percent="38.8654" mapid="FloorPlan02" y_floorplan_percent="75.7832"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-17.48" url="{node6}" title="Grand Staircase" skinid="ht_node" description="" id="Point01" pan="-339.963" target="$fwd"/>
+      <hotspot tilt="-6.15" url="{node5}" title="Main Building Entrance" skinid="ht_node" description="" id="Point02" pan="-353.18" target="$fwd"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input width="2960" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2960" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2960" preload="0" predecode="0" height="2960"/>
+      <level width="1480" preload="0" predecode="0" height="1480"/>
+      <level width="740" preload="0" predecode="0" height="740"/>
+      <level width="370" preload="1" predecode="1" height="370"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/2/2025 2:32 PM" tags="Downloads" author="" customnodeid="" nodeid="node8" latitude="" title="" heading="0">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="0.760803" y="-1.11374" x_floorplan_percent="46.9094" mapid="FloorPlan03" y_floorplan_percent="68.6706"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input width="3342" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="3342" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="3342" preload="0" predecode="0" height="3342"/>
+      <level width="1671" preload="0" predecode="0" height="1671"/>
+      <level width="835" preload="0" predecode="0" height="835"/>
+      <level width="417" preload="1" predecode="1" height="417"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/2/2025 2:31 PM" tags="Downloads" author="" customnodeid="" nodeid="node9" latitude="" title="" heading="0">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="0.564423" y="-1.06842" x_floorplan_percent="34.801" mapid="FloorPlan04" y_floorplan_percent="65.8764"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input width="2586" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" overlap="1" height="2586" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
+      <level width="2586" preload="0" predecode="0" height="2586"/>
+      <level width="1293" preload="0" predecode="0" height="1293"/>
+      <level width="646" preload="0" predecode="0" height="646"/>
+      <level width="323" preload="1" predecode="1" height="323"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fovfisheye="360" fov="140" scaletofit="1" pan="360"/>
+    </view>
+    <userdata longitude="" comment="" source="" copyright="" description="" info="" datetime="5/2/2025 2:30 PM" tags="Downloads" author="" customnodeid="" nodeid="node10" latitude="" title="" heading="0">
+      <custompropertyvalue value="Test" variablename="Test"/>
+      <mapcoords x="0.666046" y="-0.947571" x_floorplan_percent="41.0669" mapid="FloorPlan05" y_floorplan_percent="58.4251"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label width="180" wordwrap="1" enabled="1" textalpha="1" backgroundalpha="1" border="1" borderalpha="1" textcolor="0x000000" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" background="1" borderradius="1"/>
+      <polystyle handcursor="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomspeed="2" zoomin="7" zoomout="0" delay="none" blendtime="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control dblclickfullscreen="0" simulatemass="1" contextfullscreen="1" contextprojections="1" invertcontrol="1" invertwheel="0" contextvr="0" rubberband="0" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" zoomcentercursor="1" lockedkeyboard="0">
+      <menulink url="www.facebook.com" text="Test"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata tags="" author="Getutua, La Paz, Mones, Santos, and Soriano" comment="" title="Geographic Information System (GIS) of PNU-Manila" copyright="" description="A Geographic Information System (GIS) built by 4th-year undergraduate students from Philippine Normal University - Manila, taking up Bachelor in Technology and Livelihood Education with Specialization in Information and Communications Technology (BTLE-ICT)."/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map width="0" index="0" floorplannorth="0" crispedges="0" zoomlevels="1" type="file" tileformat="jpg" transparent="0" title="" bgcolor="rgba(255, 255, 255, 1)" height="0" id="FloorPlan01"/>
+  <map index="1" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" type="web" googlecustomstylecode="" title="" id="Map01" mapstyle="streets"/>
+  <map width="1181" index="2" floorplannorth="0" crispedges="0" zoomlevels="1" type="file" tileformat="jpg" transparent="0" title="" bgcolor="rgba(255, 255, 255, 1)" height="1181" id="FloorPlan02"/>
+  <map width="1181" index="3" floorplannorth="0" crispedges="0" zoomlevels="1" type="file" tileformat="jpg" transparent="0" title="" bgcolor="rgba(255, 255, 255, 1)" height="1181" id="FloorPlan03"/>
+  <map width="1181" index="4" floorplannorth="0" crispedges="0" zoomlevels="1" type="file" tileformat="jpg" transparent="0" title="" bgcolor="rgba(255, 255, 255, 1)" height="1181" id="FloorPlan04"/>
+  <map width="1181" index="5" floorplannorth="0" crispedges="0" zoomlevels="1" type="file" tileformat="jpg" transparent="0" title="" bgcolor="rgba(255, 255, 255, 1)" height="1181" id="FloorPlan05"/>
+  <customproperty propertytype="0" variabletype="0" defaultvalue="Test" variablename="Test"/>
+</tour>
